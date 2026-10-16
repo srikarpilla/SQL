@@ -202,4 +202,4 @@ Measured with `SET STATISTICS IO, TIME ON` and actual execution plans, on a cold
 
 ## Author
 
-**[Your Name]** · [LinkedIn](https://linkedin.com/in/srikar-pilla-81179425a) · [GitHub](https://github.com/srikarpilla)
+**[srikar pilla]** · [LinkedIn](https://linkedin.com/in/srikar-pilla-81179425a) · [GitHub](https://github.com/srikarpilla)
