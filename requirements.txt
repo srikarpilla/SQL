@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+psycopg2-binary
+xgboost
+scikit-learn
+streamlit
+plotly
+shap
+joblib
